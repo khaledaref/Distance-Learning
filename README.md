@@ -13,4 +13,4 @@ To see the project [Click here](https://d-learning.netlify.app)
 
 ### Image for the project :rose:
 
-<img src ="img/" width="270px" heighet="270px">
+<img src ="img/smartmockups_kvnlxnf0.jpg" width="270px" heighet="270px">
